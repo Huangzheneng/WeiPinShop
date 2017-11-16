@@ -3,4 +3,4 @@
 
 这是一个对唯品会主页仿建的项目.
 
-pages:https://huangzheneng.github.io/WeiPinShop/
+pages:https://huangzheneng.github.io/WeiPinShop/index.html
